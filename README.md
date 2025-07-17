@@ -40,6 +40,36 @@ Over the course of 31 intense days, I:
 
 ---
 
+### 🛠️ Featured Project – WebVulnScan-Pro
+
+<p align="center">
+  <img width="600" height="500" alt="WebVulnScan-Pro" src="https://github.com/user-attachments/assets/f842f246-8a12-4631-9efe-37499d89eae1" />
+</p>
+
+**WebVulnScan-Pro** is a full-stack, real-world inspired **web vulnerability scanner** that detects OWASP Top 10 bugs with a sleek React.js dashboard and FastAPI backend.
+
+🧠 Built for Bug Bounty Hunters, Students & Security Engineers.
+
+#### 🚀 Key Features:
+- 🕵️ Detects SQLi, XSS, CSRF, RCE, Open Redirect, Path Traversal, and more
+- 📊 Scan dashboard with filters, history, live status, and results viewer
+- 📁 Exportable Reports (PDF/Text) with scan logs
+- 📦 MongoDB-based storage and modular vulnerability detection engine
+- 📘 Educational Pages: Vulnerabilities, About, Contact, Docs
+
+> 🔗 **GitHub Repo:** [WebVulnScan-Pro](https://github.com/Dipanshu-Chhanikar/WebVulnScan-Pro)
+
+---
+
+### 📦 Tech Stack
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+
 ### 🧰 Tech Arsenal
 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
